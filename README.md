@@ -1,4 +1,4 @@
-# Flight_app
+# Chat App in Flutter
 
 Chat Demo for Holmusk Team
 
